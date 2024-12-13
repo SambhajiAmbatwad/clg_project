@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713520310541",
+    "project_id": "clg-project-e54ab",
+    "storage_bucket": "clg-project-e54ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713520310541:android:7b7cc1104c6e4749b46844",
+        "android_client_info": {
+          "package_name": "com.example.clg_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-YSUAP2ziuzX6cxBf18vXGmxzgkAXgJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
